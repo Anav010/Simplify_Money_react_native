@@ -1,4 +1,4 @@
-const API_KEY = "http://www.omdbapi.com/?i=tt3896198&apikey=dec33388"; // Replace with your OMDb API key
+const API_KEY = ""; // Replace with your OMDb API key
 const BASE_URL = "https://www.omdbapi.com/";
 
 export const fetchMovies = async (searchTerm) => {
